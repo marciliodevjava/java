@@ -1,0 +1,13 @@
+
+Y
+java:S2589"7Remove this expression which always evaluates to "true"(¦ÿθϋÿÿÿÿ8Ξ•‹πε1
+\
+java:S1854"?Remove this useless assignment to local variable "notaDoFilme".(Ώƒƒ‘8Ρ•‹πε1
+M
+java:S1481"0Remove this unused "notaDoFilme" local variable.(Ώƒƒ‘8Ò•‹πε1
+L	java:S106	"+Replace this use of System.out by a logger.(Χ¤ΆΊόÿÿÿÿ8Σ•‹πε1
+L	java:S106"+Replace this use of System.out by a logger.(ίϋΈβώÿÿÿÿ8‹Β‹πε1
+I
+java:S1125"'Remove the unnecessary boolean literal.(¦ÿθϋÿÿÿÿ8Τ•‹πε1
+L	java:S106"+Replace this use of System.out by a logger.(”£±ωÿÿÿÿ8¤©πε1
+L	java:S106"+Replace this use of System.out by a logger.(Φ ίΉϊÿÿÿÿ8Έσ’πε1
